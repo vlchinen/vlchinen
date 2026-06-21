@@ -48,7 +48,7 @@ https://github.com/vlchinen/galxe-wasm-research
 Engineering project focused on understanding Web3 application workflows, API communication, and wallet-based automation systems.
 
 Repository:
-https://github.com/vlchinen/predictfun-automation
+https://github.com/vlchinen/predictfun-research
 
 
 ## 🛠 Technologies
