@@ -85,3 +85,6 @@ Open to opportunities in:
 - Blockchain Analytics
 - Protocol Analysis
 - Automation Engineering
+
+
+
